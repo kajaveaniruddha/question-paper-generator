@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Who sculpted 'David'?",
+    "subject": "Art",
+    "topic": "Famous Sculptures",
+    "difficulty": "hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the main component of Earth's atmosphere?",
+    "subject": "Environmental Science",
+    "topic": "Atmosphere Composition",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "subject": "History",
+    "topic": "World Wars",
+    "difficulty": "medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "subject": "History",
+    "topic": "Cold War",
+    "difficulty": "medium",
+    "marks": 10
+  },
+  {
+    "question": "Who is known as the 'Father of Modern Medicine'?",
+    "subject": "Medicine",
+    "topic": "Medical Pioneers",
+    "difficulty": "hard",
+    "marks": 15
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "subject": "Physics",
+    "topic": "Theoretical Physics",
+    "difficulty": "hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve: 3^2 - 4 * 2",
+    "subject": "Mathematics",
+    "topic": "Basic Arithmetic",
+    "difficulty": "medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "subject": "Literature",
+    "topic": "Dystopian Novels",
+    "difficulty": "medium",
+    "marks": 10
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "subject": "Literature",
+    "topic": "Classic Novels",
+    "difficulty": "medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "subject": "Biology",
+    "topic": "Marine Life",
+    "difficulty": "medium",
+    "marks": 10
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "subject": "Art",
+    "topic": "Famous Paintings",
+    "difficulty": "hard",
+    "marks": 15
+  },
+  {
+    "question": "Name the largest desert in the world.",
+    "subject": "Geography",
+    "topic": "Deserts",
+    "difficulty": "medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "subject": "Medicine",
+    "topic": "Medical Discoveries",
+    "difficulty": "hard",
+    "marks": 15
+  },
+  {
+    "question": "Who is known as the 'Father of Computer Science'?",
+    "subject": "Computer Science",
+    "topic": "Pioneers",
+    "difficulty": "hard",
+    "marks": 15
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "subject": "History",
+    "topic": "Maritime Disasters",
+    "difficulty": "medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the capital of France?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "subject": "Mathematics",
+    "topic": "Number Theory",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "Solve: 2 + 2 * 2",
+    "subject": "Mathematics",
+    "topic": "Basic Arithmetic",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "subject": "Literature",
+    "topic": "Shakespearean Plays",
+    "difficulty": "medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "subject": "Economics",
+    "topic": "World Currencies",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of Dednmark?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "medium",
+    "marks": 5
+  },
+  {
+    "question": "Solve: 4^2 - 3 * 2",
+    "subject": "Mathematics",
+    "topic": "Basic Arithmetic",
+    "difficulty": "medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the currency of Brazil?",
+    "subject": "Economics",
+    "topic": "World Currencies",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "subject": "Astronomy",
+    "topic": "Planets",
+    "difficulty": "easy",
+    "marks": 5
+  },
+  {
+    "question": "Solve: 5 + 3 * 2",
+    "subject": "Mathematics",
+    "topic": "Basic Arithmetic",
+    "difficulty": "easy",
+    "marks": 5
+  }
+]

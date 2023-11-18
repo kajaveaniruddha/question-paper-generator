@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 1px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.divideInto2 {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  gap: 2px;
+}
+.introduction {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  background: #2f3e46;
+  color: #cad2c5;
+  padding: 40px 0;
+}
+.allQuestions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #354f52;
+  color: #cad2c5;
+  width: 100%;
+}
+.AddNewQuestion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #354f52;
+  color: #cad2c5;
+  width: 100%;
+}
+input {
+  width: 150px;
+  padding: 2px;
+  margin: 1px;
+}
+
+button {
+  margin: 1rem 0 1rem 0;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  background: #84a98c;
+  font-size: medium;
+  font-weight: 600;
+}
+
+.buildQuestionPaper {
+  margin-top: 2px;
+  padding-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #354f52;
+  color: #cad2c5;
+  width: 100%;
+  padding-bottom: 10rem;
+  justify-content: center;
+}
+#questionPaperResult {
+  padding: 0 10rem 0 10rem;
+}
