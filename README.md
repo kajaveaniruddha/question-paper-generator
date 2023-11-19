@@ -17,13 +17,13 @@ The problem statement here is that you need to generate a question paper of 100 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/kajaveaniruddha/question-paper-generator.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd question-paper-generator
 ```
 
 Install dependencies
