@@ -122,7 +122,7 @@ We can also add a unique `id` to every question but here it was not necessary to
 
 - [Express Validator](https://express-validator.github.io/docs)
     - 
-     Validate and sanitize our express requests.
+     Validate and sanitize ( sanitize means that if req.body.text was sent with the value `Hello world :>)`, after the sanitization its value will be `Hello world :&gt;)`) our express requests.
      Example to check whether the input parameter `total marks` is a numeric value or not. 
     
 - [cors](https://www.npmjs.com/package/cors) 
