@@ -161,14 +161,14 @@ router.put(
     body(
       "ip_question",
       "Question must be of minimum 3 characters and maximum 1000 characters"
-    ).isLength({ min: 3, max: 1000 }),
+    ).isLength({ min: 3, max: 1000 }).escape(),
     body(
       "ip_subject",
       "Subject must be of minimum 5 characters and maximum 50 characters"
     ).isLength({
       min: 5,
       max: 50,
-    }),
+    }).escape(),
     body(
       "ip_topic",
       "Topic must be of minimum 5 characters and maximum 50 characters"
