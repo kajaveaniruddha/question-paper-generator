@@ -1,7 +1,7 @@
 
 # Question paper generator 
 
-Engineered the backend for a Question Paper Generator application.
+Designed and implemented the backend services for an automated question paper generator.
 
 The application stores a number of questions in a Question Store. The Question paper Generator looks for questions in the Question Store and then generate the question paper based on the total marks and the distribution of marks based on *Difficulty*.
 
