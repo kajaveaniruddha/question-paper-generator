@@ -1,7 +1,7 @@
 
 # Question paper generator 
 
-Designed and implemented a Question Paper Generator application.
+Designed and implemented the server for Question Paper Generator application.
 
 The application stores a number of questions in a Question Store. The Question paper Generator looks for questions in the Question Store and then generate the question paper based on the total marks and the distribution of marks based on *Difficulty*.
 
