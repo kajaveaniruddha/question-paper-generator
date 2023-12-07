@@ -6,7 +6,7 @@ const path = require("path");
 
 const allQuestions = require("../models/questionStore.json");
 const questionStorePath = path.join(__dirname, "../models/questionStore.json");
-// Based on the available questions, generattion a question paper with a maximum marks
+// Based on the available questions, generation a question paper with a maximum marks
 function MaxPossibleMarks(ip_allQuestions) {
   var max_possible_marks = 0;
   ip_allQuestions.forEach((question) => {
@@ -95,9 +95,9 @@ router.post(
       let temp_marks_medium = marks_medium;
       let temp_marks_hard = marks_hard;
 
-      //shuffling questions to get different sets of questions everytime
+      //shuffling questions to get different sets of questions every time
       const shuffledQuestions = shuffleAllAvailableQuestions(allQuestions);
-      //filtering questions as per user's requst from the available set of questions
+      //filtering questions as per user's request from the available set of questions
       const requestedQuestions = shuffledQuestions.filter((question) => {
         if (marks_easy == 0 && marks_medium == 0 && marks_hard == 0)
           return false; // Terminate the filter loop upon fulfilling the requirements; otherwise, continue iterating through the list to determine if it's feasible to include a question as per the request.
@@ -127,7 +127,7 @@ router.post(
 
       const tempAllQuestions = allQuestions; //shuffling the copy of the data so that we don't alter the original data coming from database as it is very precious
       var max_possible_marks = MaxPossibleMarks(tempAllQuestions);
-      //shuffle data to get new set of questions everytime
+      //shuffle data to get new set of questions every time
       
       res.status(200).json({
         requestedQuestions,
@@ -217,7 +217,7 @@ router.put(
       };
       allQuestions.push(newQuestion);
 
-      //storing the newly added question to the database ,here fiesystem :)
+      //storing the newly added question to the database ,here file system :)
       fs.writeFileSync(
         questionStorePath,
         JSON.stringify(allQuestions, null, 2)
